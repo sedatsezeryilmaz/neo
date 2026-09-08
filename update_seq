@@ -1,0 +1,9 @@
+versionCode = 2
+versionName = "1.0.1"
+
+you must change every time you update
+
+versionCode = 3
+versionName = "1.0.2"
+
+build.gradle
