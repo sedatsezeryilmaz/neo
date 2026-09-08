@@ -1,4 +1,9 @@
 {
-  "version": "1.0.0",
-  "apk_url": "type you link here"
+  "version": "1.0.1",
+  "apk_url": "GERCEK_APK_LINKI",
+  "notes": [
+    "Parametre Sor ekranındaki boşluk düzeltildi.",
+    "ACS800 Assembly Instruction bölümüne R7 eklendi.",
+    "Arayüz iyileştirmeleri yapıldı."
+  ]
 }
