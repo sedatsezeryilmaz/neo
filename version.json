@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "apk_url": "https://github.com/sedatsezeryilmaz/neo/raw/refs/heads/main/DriveAssistant_V1.0.6.apk",
+  "version": "1.0.7",
+  "apk_url": "https://github.com/sedatsezeryilmaz/neo/raw/refs/heads/main/DriveAssistant_V1.0.7.apk",
   "notes": [
-    "Bug Report'ta Ek sayısı 5'e çıkarıldı"
+    "ACS880 Crane bug giderildi. MV-LV sürücüler arasında navigasyon problemi giderildi"
   ]
 }
