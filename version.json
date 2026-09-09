@@ -2,8 +2,8 @@
   "version": "1.0.5",
   "apk_url": "https://github.com/sedatsezeryilmaz/neo/raw/refs/heads/main/DriveAssistant_V1.0.5.apk",
   "notes": [
-    "ACS2000 kullanıma açıldı. Parametre, Troubleshooting ve Kaynaklar eklendi
-    Arayüz iyileştirmeleri yapıldı
-    Minör buglar temizlendi"
+    "ACS2000 kullanıma açıldı. Parametre, Troubleshooting ve Kaynaklar eklendi"
+    "Arayüz iyileştirmeleri yapıldı"
+    "Minör buglar temizlendi"
   ]
 }
