@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "apk_url": "https://github.com/sedatsezeryilmaz/neo/raw/refs/heads/main/DriveAssistant_V1.0.8.apk",
+  "version": "1.0.9",
+  "apk_url": "https://github.com/sedatsezeryilmaz/neo/raw/refs/heads/main/DriveAssistant_V1.0.9.apk",
   "notes": [
-    "ACS5000 - ACS6000 - ACS6080 aktif hale getirildi. Kullanılan software'e göre parametre ve troubleshooting sistemi eklendi. Kaynak dosyaları eklendi. ACS880 Drive Bluetooth kaldırıldı. Arayüz iyileştirmesi yapıldı"
+    "ACS5000 - ACS6000 - ACS6080 aktif hale getirildi. Kullanılan software'e göre parametre ve troubleshooting sistemi eklendi. Kaynak dosyaları eklendi. ACS880 Drive Bluetooth kaldırıldı. PDF'lerden çıkarken uygulamanın kapanma sorunu giderildi. Arayüz iyileştirmesi yapıldı"
   ]
 }
